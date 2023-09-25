@@ -1,0 +1,4 @@
+F:\Enib\ProjetCM33\E3\sen_cm33_lab3_i2c\drivers/fsl_clock.h:722:20:CLOCK_EnableClock	24	static
+F:\Enib\ProjetCM33\E3\sen_cm33_lab3_i2c\drivers/fsl_iocon.h:255:22:IOCON_PinMuxSet	24	static
+../board/pin_mux.c:34:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:63:6:BOARD_InitPins	16	static
